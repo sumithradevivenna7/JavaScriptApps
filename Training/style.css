@@ -1,0 +1,16 @@
+.nav {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: burlywood;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
